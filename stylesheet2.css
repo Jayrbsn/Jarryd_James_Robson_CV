@@ -1,0 +1,66 @@
+    
+body {
+background-color: #9c9f84;
+margin: 0px;
+font-family: Verdana, Georgia, serif;
+font-size: 14px;
+}
+
+h1{
+text-align:center;
+}
+
+h4{
+margin-bottom:1px;
+}
+
+a {
+color: black;
+}
+
+.main {
+background-color: white;
+margin:0px;
+margin-bottom: 10px;
+border-radius: 5px;
+padding:20px;
+font-size: 110%;
+text-align: right; 
+}
+
+.space { 
+margin-top: 200px; 
+}
+
+.work_exp {
+background-color: #edeef2;
+margin:0px;
+margin-top:0px;
+border-radius: 5px;
+padding:20px;
+font-size: 110%;
+text-align:left; 
+}
+
+.skills {
+background-color: white;
+margin:0px;
+margin-top:10px;
+border-radius: 5px;
+padding:20px;
+font-size: 110%;
+text-align:left; 
+}
+
+.education {
+background-color: #edeef2;
+margin:0px;
+margin-top:10px;
+border-radius: 5px;
+padding:20px;
+font-size: 110%;
+text-align:left; 
+}
+
+
+
