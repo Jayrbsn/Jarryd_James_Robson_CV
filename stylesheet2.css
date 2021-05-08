@@ -9,6 +9,12 @@ font-size: 14px;
 h1{
 text-align:center;
 }
+@media screen and (max-width: 360px) {
+  h1 {
+    font-size: 12px !important;
+    line-height: 80%;
+    margin-top: 10px;
+  }
 
 h4{
 margin-bottom:1px;
